@@ -250,7 +250,7 @@ def draw_CCT(nodes):
     nx.draw_networkx_labels(G, pos , font_size=20, font_family='sans-serif')
     nx.draw_networkx_edge_labels(G, pos , edge_labels=e_labels , font_size=15, font_family='sans-serif')
     
-    plt.title('Contex Call Tree')
+    plt.title('Context Call Tree')
     plt.axis('off')
     plt.show()
 
