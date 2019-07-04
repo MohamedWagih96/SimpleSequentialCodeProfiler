@@ -2,12 +2,17 @@
 
 A static sequential code analyzer
 
+
 ### Prerequisites
 
 tabulate 
+
 numpy 
+
 networkx 
+
 matplotlib
+
 
 ### Installing
 
