@@ -5,13 +5,12 @@ A static sequential code analyzer
 
 ### Prerequisites
 
-tabulate 
-
-numpy 
-
-networkx 
-
-matplotlib
+<ul>
+  <li>tabulate</li>
+  <li>numpy</li>
+  <li>networkx</li>
+  <li>matplotlib</li>
+</ul>
 
 
 ### Installing
