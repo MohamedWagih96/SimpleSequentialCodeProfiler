@@ -16,3 +16,6 @@ A static sequential code analyzer
 ### Installing
 
 Download the notebook and run it that Simple :D
+
+### Documentation
+There's a full comprehensive pdf file that explains every single cell in the code.
