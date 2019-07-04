@@ -20,6 +20,9 @@ Download the notebook and run it that Simple :D
 ### Documentation
 There's a full comprehensive pdf file that explains every single cell in the code.
 
+### Input Example
+![alt text](https://raw.githubusercontent.com/MohamedWagih96/SimpleSequentialCodeProfiler/master/Input.png)
+
 ### Results
 Call Stack Table:
 
