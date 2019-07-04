@@ -1,0 +1,10 @@
+Call main - 0
+Call a - 5
+Return - 10
+Call b - 15
+Call c - 16
+Call d - 17
+Return - 18
+Return - 19
+Return - 20
+Return - 25
